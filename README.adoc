@@ -1,0 +1,10 @@
+= TravelCalc
+
+This is the home for the TravelCalc Android app. It can be found on
+https://play.google.com/store/apps/details?id=se.svxlabs.travelcalc[Google Play Store].
+
+== Reporting Issues
+Feature requests and bugreports can be entered into the https://github.com/sm0svx/travelcalc/issues[GitHub Issue Tracker].
+
+== Integrity Policy
+include::INTEGRITYPOLICY.adoc[]
